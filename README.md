@@ -7,7 +7,7 @@ People seem to overcomplicate how to get Android's Current/Last Known Location, 
 * Uses Android Studio
 * Clone and run
 * Sorry I copied the whole package and all the rubbish, just to make it seemingly easy but probably more difficult.
-* Code is very simple, you can find details here - https://developer.android.com/training/location/retrieve-current.html#last-known
+* Code is very simple, you can find details [here](https://developer.android.com/training/location/retrieve-current.html#last-known)
 * Why have I uploaded such a simple thing? Because I keep forgetting how to do it.
 ### Whats not in the Main Activity file that I need? ###
 
