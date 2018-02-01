@@ -12,7 +12,7 @@ People seem to overcomplicate how to get Android's Current/Last Known Location, 
 ### Whats not in the Main Activity file that I need? ###
 
 * [MainActivity.java](https://github.com/oscarmeanwell/Android-Location/blob/master/mySensors/app/src/main/java/com/example/a40201136/mysensors/MainActivity.java)
-* Add this line to dependencies in the build.gradle compile 'com.google.android.gms:play-services:11.0.0'
+* Add this line to dependencies in the [build.gradle](https://github.com/oscarmeanwell/Android-Location/blob/master/mySensors/app/build.gradle#L28) compile 'com.google.android.gms:play-services:11.0.0'
 
 ### Who do I talk to? ###
 
